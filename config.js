@@ -3,6 +3,6 @@
 //  (Supabase > Project Settings > API)
 // =====================================================
 window.APP_CONFIG = {
-  SUPABASE_URL: "",       // ex: "https://abcdxyz.supabase.co"
-  SUPABASE_ANON_KEY: ""   // a chave "anon public" (começa com eyJ) ou a "publishable" (começa com sb_publishable_). NUNCA a secret/service_role
+  SUPABASE_URL: "https://mwgvyerodhomvewvyxlb.supabase.co/rest/v1/",       // ex: "https://abcdxyz.supabase.co"
+  SUPABASE_ANON_KEY: "sb_publishable_tjsqTYr2ipEMCuaJlUeNKA_t3nIYNSX"   // a chave "anon public" (começa com eyJ) ou a "publishable" (começa com sb_publishable_). NUNCA a secret/service_role
 };
